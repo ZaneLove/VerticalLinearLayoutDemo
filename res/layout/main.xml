@@ -1,0 +1,28 @@
+<com.zanelove.VerticalLinearLayoutDemo.VerticalLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/id_main_ly"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:background="#fff" >
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/guide_1"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/guide_2"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/guide_3"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/guide_4"/>
+
+</com.zanelove.VerticalLinearLayoutDemo.VerticalLinearLayout>
